@@ -1,0 +1,27 @@
+---
+date: 2026-03-30
+source: chatgpt
+title: "Power activation timeline"
+category: "General & Life Admin"
+tags: [chatgpt-import]
+status: pending-review
+sensitive: false
+---
+
+**You:** {"content_type": "audio_transcription", "decoding_id": null, "direction": "in", "text": "I just talked to the Eversource power online for my new apartment in Merrimack, New Hampshire, and I got the power turned on for it. How long till it's officially, like, under my name and I'm good to use it?"}
+{"audio_asset_pointer": {"asset_pointer": "sediment://file_0000000067f871f5933cf9e130889680", "content_type": "audio_asset_pointer", "expiry_datetime": "2026-04-29T12:46:18.538832+00:00", "format": "wav", "metadata": {"end": 17.68, "end_timestamp": null, "interruptions": null, "original_audio_source": null, "pretokenized_vq": null, "start": 0.0, "start_timestamp": null, "transcription": null, "word_transcription": null}, "size_bytes": 848718, "tool_audio_direction": null}, "audio_start_timestamp": 19.148372938856483, "content_type": "real_time_user_audio_video_asset_pointer", "expiry_datetime": "2026-04-29T12:46:18.538832+00:00", "frames_asset_pointers": [], "video_container_asset_pointer": null}
+
+**ChatGPT:** {"content_type": "audio_transcription", "decoding_id": null, "direction": "out", "text": "Typically, once you've arranged it with them, it\u2019s pretty quick! In many cases, it could be active the same day or within one business day. If you already had a set start date, you should be good to go from that point onward. If in doubt, you can log into your account or give them a quick call to confirm everything is set!"}
+{"asset_pointer": "sediment://file_000000004a30722fb2eeb4f89ddce424", "content_type": "audio_asset_pointer", "expiry_datetime": "2026-04-29T12:46:18.538895+00:00", "format": "wav", "metadata": {"end": 17.25, "end_timestamp": null, "interruptions": null, "original_audio_source": null, "pretokenized_vq": null, "start": 0.0, "start_timestamp": null, "transcription": null, "word_transcription": null}, "size_bytes": 828078, "tool_audio_direction": null}
+
+**You:** {"content_type": "audio_transcription", "decoding_id": null, "direction": "in", "text": "I just got off the phone with them, and they said that it's transferred to my name. I just don't know if it's set yet or, like, active."}
+{"audio_asset_pointer": {"asset_pointer": "sediment://file_00000000d7b471f5a4e415294a61b047", "content_type": "audio_asset_pointer", "expiry_datetime": "2026-04-29T12:46:49.962191+00:00", "format": "wav", "metadata": {"end": 10.42, "end_timestamp": null, "interruptions": null, "original_audio_source": null, "pretokenized_vq": null, "start": 0.0, "start_timestamp": null, "transcription": null, "word_transcription": null}, "size_bytes": 500238, "tool_audio_direction": null}, "audio_start_timestamp": 50.4440408940427, "content_type": "real_time_user_audio_video_asset_pointer", "expiry_datetime": "2026-04-29T12:46:49.962191+00:00", "frames_asset_pointers": [], "video_container_asset_pointer": null}
+
+**ChatGPT:** {"content_type": "audio_transcription", "decoding_id": null, "direction": "out", "text": "Got it! If they confirmed the transfer is done, usually that means it's already in effect or will be by the end of the day. You can check by logging into your online Eversource account\u2014usually, you'll see your service status there. If you already had a start date or they told you it was immediate, you can pretty much assume it\u2019s active now!"}
+{"asset_pointer": "sediment://file_000000005ad871f5a823daa2ad3350d4", "content_type": "audio_asset_pointer", "expiry_datetime": "2026-04-29T12:46:49.962237+00:00", "format": "wav", "metadata": {"end": 18.75, "end_timestamp": null, "interruptions": null, "original_audio_source": null, "pretokenized_vq": null, "start": 0.0, "start_timestamp": null, "transcription": null, "word_transcription": null}, "size_bytes": 900078, "tool_audio_direction": null}
+
+**You:** {"content_type": "audio_transcription", "decoding_id": null, "direction": "in", "text": "Hey, Jacob. I was just calling... Oh, sorry."}
+{"audio_asset_pointer": {"asset_pointer": "sediment://file_00000000157871f58fd740911a47f823", "content_type": "audio_asset_pointer", "expiry_datetime": "2026-04-29T13:17:33.373649+00:00", "format": "wav", "metadata": {"end": 7.79, "end_timestamp": null, "interruptions": null, "original_audio_source": null, "pretokenized_vq": null, "start": 0.0, "start_timestamp": null, "transcription": null, "word_transcription": null}, "size_bytes": 373998, "tool_audio_direction": null}, "audio_start_timestamp": 1906.2018646318465, "content_type": "real_time_user_audio_video_asset_pointer", "expiry_datetime": "2026-04-29T13:17:33.373649+00:00", "frames_asset_pointers": [], "video_container_asset_pointer": null}
+
+**ChatGPT:** {"content_type": "audio_transcription", "decoding_id": null, "direction": "out", "text": "No worries! I\u2019m here for whatever you need. What\u2019s on your mind?"}
+{"asset_pointer": "sediment://file_0000000069cc71f59d7cedcceec84c49", "content_type": "audio_asset_pointer", "expiry_datetime": "2026-04-29T13:17:33.373704+00:00", "format": "wav", "metadata": {"end": 5.7, "end_timestamp": null, "interruptions": null, "original_audio_source": null, "pretokenized_vq": null, "start": 0.0, "start_timestamp": null, "transcription": null, "word_transcription": null}, "size_bytes": 273678, "tool_audio_direction": null}

@@ -1,0 +1,637 @@
+# Conversation Index
+
+Browsable index of the AI conversation library, grouped by topic.
+Sensitive/flagged conversations are kept separately — see `Library/Private/Private Index.md`.
+
+**Total conversations:** 645 &nbsp;|&nbsp; **In this index:** 584 &nbsp;|&nbsp; **Private:** 61
+
+Flip `status: approved` in a note's frontmatter once you've reviewed it.
+
+## Career & Work (12)
+
+- [ ] [[2023-04-12-referring-to-ticket-submitter]] — Referring to Ticket Submitter
+- [ ] [[2023-07-20-grad-app-personal-statement]] — Grad App Personal Statement.
+- [ ] [[2023-09-20-it-onboarding-routine-setup]] — IT Onboarding Routine Setup
+- [ ] [[2025-10-23-linkedin-post-rewrite]] — LinkedIn post rewrite
+- [ ] [[2026-02-06-employee-performance-meeting]] — Employee Performance Meeting
+- [ ] [[2026-02-09-class-attendance-decision]] — Class Attendance Decision
+- [ ] [[2026-03-13-performance-review-process]] — Performance Review Process
+- [ ] [[2026-04-21-freelance-it-side-jobs]] — Freelance IT Side Jobs
+- [ ] [[2026-05-27-it-support-hiring-process]] — IT support hiring process
+- [ ] [[2026-06-24-getting-hired-at-bk]] — Getting Hired at BK
+- [ ] [[2026-06-24-onboarding-process-issues]] — Onboarding Process Issues
+- [ ] [[2026-07-22-goodbye-message-for-coworker]] — Goodbye Message for Coworker
+
+## Cars & Vehicles (8)
+
+- [ ] [[2026-01-19-hyundai-resale-with-engine-issues]] — Hyundai Resale With Engine Issues
+- [ ] [[2026-01-21-brake-caliper-replacement-cost]] — Brake Caliper Replacement Cost
+- [ ] [[2026-03-12-check-engine-light-issue]] — Check engine light issue
+- [ ] [[2026-04-02-towhaul-mode-explained]] — Tow/Haul Mode Explained
+- [ ] [[2026-04-15-tv-in-subaru-forester]] — TV in Subaru Forester
+- [ ] [[2026-04-28-car-static-shock-cause]] — Car static shock cause
+- [ ] [[2026-05-01-oil-consumption-and-frequency]] — Oil Consumption and Frequency
+- [ ] [[2026-05-01-p0300-code-explanation]] — P0300 Code Explanation
+
+## Coding & Dev Projects (61)
+
+- [ ] [[2025-04-18-docker-in-docker-explanation]] — Docker in Docker Explanation
+- [ ] [[2026-04-09-inventory-first-recommendation]] — Inventory first recommendation
+- [ ] [[2026-04-19-vibe-coding-suspicious-trades]] — Vibe coding suspicious trades
+- [ ] [[2026-05-06-openclaw-setup-guide]] — Openclaw Setup Guide
+- [ ] [[2026-05-09-suspicious-market-trading-detection]] — Suspicious Market Trading Detection
+- [ ] [[2026-05-10-anonymous-name-suggestions]] — Anonymous Name Suggestions
+- [ ] [[2026-05-11-bot-data-interpretation-guide]] — Bot Data Interpretation Guide
+- [ ] [[2026-05-12-dynamic-market-discovery-upgrade]] — Dynamic Market Discovery Upgrade
+- [ ] [[2026-05-12-sql-tour-for-kalshi-bot]] — SQL tour for Kalshi bot
+- [ ] [[2026-05-21-normalizing-event-sensitivity]] — Normalizing Event Sensitivity
+- [ ] [[2026-05-22-chat-codex-command]] — Chat Codex Command
+- [ ] [[2026-05-24-arbitrage-bet-explanation]] — Arbitrage Bet Explanation
+- [ ] [[2026-05-25-dashboard-improvement-feedback]] — Dashboard Improvement Feedback
+- [ ] [[2026-05-25-demo-api-setup]] — Demo API Setup
+- [ ] [[2026-05-25-demo-trading-test-setup]] — Demo Trading Test Setup
+- [ ] [[2026-05-25-hermes-setup-guide]] — Hermes setup guide
+- [ ] [[2026-05-25-max-order-size-explanation]] — Max Order Size Explanation
+- [ ] [[2026-05-26-market-microstructure-insights]] — Market Microstructure Insights
+- [ ] [[2026-05-27-bug-fix-scoring-logic]] — Bug Fix: Scoring Logic
+- [ ] [[2026-05-27-hermes-trading-analysis]] — Hermes trading analysis
+- [ ] [[2026-05-27-narrative-data-integration]] — Narrative Data Integration
+- [ ] [[2026-05-27-nonetype-error-fix]] — NoneType Error Fix
+- [ ] [[2026-05-27-prediction-analysis-support]] — Prediction Analysis Support
+- [ ] [[2026-05-27-weak-hold-alert-analysis]] — Weak HOLD Alert Analysis
+- [ ] [[2026-05-28-quantitative-research-system]] — Quantitative Research System
+- [ ] [[2026-05-28-regime-and-liquidity-issues]] — Regime and Liquidity Issues
+- [ ] [[2026-05-28-regime-handling-upgrade]] — Regime Handling Upgrade
+- [ ] [[2026-05-29-trading-system-evolution]] — Trading system evolution
+- [ ] [[2026-05-31-confidence-based-buy-sizing]] — Confidence-based Buy Sizing
+- [ ] [[2026-05-31-hermes-exit-automation-fix]] — Hermes Exit Automation Fix
+- [ ] [[2026-05-31-hermes-market-block-analysis]] — Hermes Market Block Analysis
+- [ ] [[2026-05-31-hermes-opportunity-analysis]] — Hermes Opportunity Analysis
+- [ ] [[2026-05-31-trade-lifecycle-analytics-review]] — Trade Lifecycle Analytics Review
+- [ ] [[2026-06-02-demo-bot-testing-setup]] — Demo Bot Testing Setup
+- [ ] [[2026-06-02-grafana-dashboard-review]] — Grafana Dashboard Review
+- [ ] [[2026-06-02-increase-candidate-evaluation]] — Increase candidate evaluation
+- [ ] [[2026-06-02-kalshi-demo-position-bug]] — Kalshi Demo Position Bug
+- [ ] [[2026-06-02-kalshi-polymarket-bot-strategy]] — Kalshi Polymarket Bot Strategy
+- [ ] [[2026-06-02-kalshi-trade-analysis]] — Kalshi Trade Analysis
+- [ ] [[2026-06-02-token-usage-and-hermes]] — Token Usage and Hermes
+- [ ] [[2026-06-03-bot-order-review]] — Bot Order Review
+- [ ] [[2026-06-03-hermes-narrative-issues]] — Hermes Narrative Issues
+- [ ] [[2026-06-03-topic-matching-optimization]] — Topic Matching Optimization
+- [ ] [[2026-06-03-trade-evaluation-feedback]] — Trade Evaluation Feedback
+- [ ] [[2026-06-04-trade-notification-fix]] — Trade Notification Fix
+- [ ] [[2026-06-08-analytics-feedback-and-adjustments]] — Analytics Feedback and Adjustments
+- [ ] [[2026-06-08-architectural-refactoring-review]] — Architectural Refactoring Review
+- [ ] [[2026-06-08-event-bus-refactor]] — Event Bus Refactor
+- [ ] [[2026-06-08-exit-reason-trace-improvement]] — Exit Reason Trace Improvement
+- [ ] [[2026-06-08-github-repo-setup]] — GitHub Repo Setup
+- [ ] [[2026-06-08-github-update-process]] — GitHub Update Process
+- [ ] [[2026-06-08-grafana-exit-diagnostics-debug]] — Grafana Exit Diagnostics Debug
+- [ ] [[2026-06-08-hermes-bridge-refactor]] — Hermes Bridge Refactor
+- [ ] [[2026-06-08-modify-narrative-topics]] — Modify Narrative Topics
+- [ ] [[2026-06-08-refactor-feedback-and-suggestions]] — Refactor Feedback and Suggestions
+- [ ] [[2026-06-08-risk-analytics-implementation]] — Risk Analytics Implementation
+- [ ] [[2026-06-08-trading-system-review]] — Trading System Review
+- [ ] [[2026-06-08-walkthrough-of-trade-bot]] — Walkthrough of trade bot
+- [ ] [[2026-06-09-order-purpose-implementation]] — Order Purpose Implementation
+- [ ] [[2026-06-09-telegram-notification-bug]] — Telegram notification bug
+- [ ] [[2026-06-19-daily-briefing-customization]] — Daily Briefing Customization
+
+## Design & Creative (29)
+
+- [ ] [[2023-03-03-bjjteam-store-creation]] — BJJTeam Store Creation
+- [ ] [[2023-03-03-finding-or-creating-pictures]] — Finding or Creating Pictures.
+- [ ] [[2023-03-07-teenage-engineering-design-philosophy]] — Teenage Engineering Design Philosophy.
+- [ ] [[2023-04-03-radio-show-program-planning]] — Radio show program planning.
+- [ ] [[2024-11-24-logo-design-assistance]] — Logo Design Assistance
+- [ ] [[2024-11-24-logo-design-request]] — Logo Design Request
+- [ ] [[2025-01-30-logo-design-request]] — Logo Design Request
+- [ ] [[2025-02-01-logo-design-request]] — Logo Design Request
+- [ ] [[2025-02-05-logo-design-assistance]] — Logo design assistance
+- [ ] [[2025-02-05-logo-design-tips]] — Logo Design Tips
+- [ ] [[2025-02-10-logo-design-choice]] — Logo Design Choice
+- [ ] [[2025-02-19-font-identification-tools]] — Font identification tools
+- [ ] [[2025-02-19-image-edit-request]] — Image Edit Request
+- [ ] [[2025-02-21-logo-design-comparison]] — Logo Design Comparison
+- [ ] [[2025-02-21-logo-upgrade-suggestions]] — Logo Upgrade Suggestions
+- [ ] [[2025-02-22-twitch-overlay-feedback]] — Twitch Overlay Feedback
+- [ ] [[2025-03-03-mma-show-structure-guide]] — MMA Show Structure Guide
+- [ ] [[2025-03-08-social-media-post-feedback]] — Social Media Post Feedback
+- [ ] [[2025-03-14-ufc-post-creation-tools]] — UFC Post Creation Tools
+- [ ] [[2025-05-12-graphic-feedback-and-suggestions]] — Graphic Feedback and Suggestions
+- [ ] [[2026-04-27-3d-printing-quick-start]] — 3D Printing Quick Start
+- [ ] [[2026-05-05-prusa-mini-setup-guide]] — Prusa Mini Setup Guide
+- [ ] [[2026-05-08-3d-roman-bust-creation]] — 3D Roman Bust Creation
+- [ ] [[2026-05-12-3d-printing-file-help]] — 3D Printing File Help
+- [ ] [[2026-05-13-red-pla-oozing-fix]] — Red PLA Oozing Fix
+- [ ] [[2026-05-14-3d-printer-print-ideas]] — 3D Printer Print Ideas
+- [ ] [[2026-05-22-3d-bust-creation-tips]] — 3D Bust Creation Tips
+- [ ] [[2026-05-31-magazine-page-identification]] — Magazine Page Identification
+- [ ] [[2026-07-11-image-modification-request]] — Image Modification Request
+
+## Finance & Investing (19)
+
+- [ ] [[2024-12-17-best-budgeting-apps-2024]] — Best Budgeting Apps 2024
+- [ ] [[2025-01-14-betterment-vs-alliant-comparison]] — Betterment vs Alliant Comparison
+- [ ] [[2025-01-18-tiktok-vs-cryptocurrency-bias]] — TikTok vs Cryptocurrency Bias
+- [ ] [[2025-01-20-boglehead-portfolio-analysis]] — Boglehead Portfolio Analysis
+- [ ] [[2025-03-25-home-price-estimate]] — Home Price Estimate
+- [ ] [[2025-03-28-condo-payment-estimate]] — Condo payment estimate
+- [ ] [[2025-07-07-zelle-verification-code-alert]] — Zelle Verification Code Alert
+- [ ] [[2025-07-08-corporate-taxes-and-wealth-tax-impact]] — Corporate Taxes and Wealth Tax Impact
+- [ ] [[2025-07-18-financial-boundaries-explanation]] — Financial Boundaries Explanation
+- [ ] [[2026-02-26-dca-sp-500-strategy]] — DCA S&P 500 Strategy
+- [ ] [[2026-03-17-salary-raise-calculation]] — Salary Raise Calculation
+- [ ] [[2026-04-28-budget-avr-speaker-setup]] — Budget AVR Speaker Setup
+- [ ] [[2026-05-11-account-balance-explanation]] — Account Balance Explanation
+- [ ] [[2026-05-25-financial-topics-to-study]] — Financial topics to study
+- [ ] [[2026-06-06-salary-increase-vs-promotion]] — Salary Increase vs Promotion
+- [ ] [[2026-06-20-52-week-challenge-vs-systems]] — 52-Week Challenge vs Systems
+- [ ] [[2026-06-20-investment-strategy-breakdown]] — Investment Strategy Breakdown
+- [ ] [[2026-06-20-monthly-investment-plan]] — Monthly Investment Plan
+- [ ] [[2026-06-20-stock-position-review]] — Stock Position Review
+
+## Food & Recipes (99)
+
+- [ ] [[2025-02-22-vegan-dining-options-nashua]] — Vegan dining options Nashua
+- [ ] [[2025-07-04-4th-of-july-drinks]] — 4th of July Drinks
+- [ ] [[2025-07-06-meal-prep-ideas-101]] — Meal Prep Ideas 101
+- [ ] [[2025-07-10-ground-beef-for-tacos]] — Ground Beef for Tacos
+- [ ] [[2025-07-12-simple-fried-rice-recipe]] — Simple Fried Rice Recipe
+- [ ] [[2025-07-26-how-to-cook-hash-browns]] — How to cook hash browns
+- [ ] [[2025-07-27-paying-for-meal-advice]] — Paying for Meal Advice
+- [ ] [[2025-08-02-bachelor-trip-restaurants-boston]] — Bachelor trip restaurants Boston
+- [ ] [[2025-08-02-stir-fry-recipe]] — Stir fry recipe
+- [ ] [[2025-08-05-ground-beef-quesadilla-recipe]] — Ground beef quesadilla recipe
+- [ ] [[2025-08-07-cook-angus-steak-stovetop]] — Cook angus steak stovetop
+- [ ] [[2025-08-12-stir-fry-beef-uses]] — Stir fry beef uses
+- [ ] [[2025-08-13-ground-turkey-taco-prep]] — Ground turkey taco prep
+- [ ] [[2025-08-17-crispy-buffalo-wings-recipe]] — Crispy buffalo wings recipe
+- [ ] [[2025-08-19-french-fry-seasoning-recipe]] — French fry seasoning recipe
+- [ ] [[2025-08-22-chicken-parm-dinner-ideas]] — Chicken parm dinner ideas
+- [ ] [[2025-08-23-sirloin-steak-recipe]] — Sirloin steak recipe
+- [ ] [[2025-08-24-egg-recipe-idea]] — Egg recipe idea
+- [ ] [[2025-08-28-spanish-rice-recipe]] — Spanish rice recipe
+- [ ] [[2025-09-03-turkey-bowls-meaning]] — Turkey bowls meaning
+- [ ] [[2025-09-06-ground-beef-quesadilla-recipe]] — Ground beef quesadilla recipe
+- [ ] [[2025-09-18-overnight-oats-recipe]] — Overnight oats recipe
+- [ ] [[2025-09-20-homemade-chicken-wings-recipe]] — Homemade chicken wings recipe
+- [ ] [[2025-09-22-homemade-uncrustables-recipe]] — Homemade Uncrustables recipe
+- [ ] [[2025-09-23-tex-mex-beef-recipes]] — Tex-Mex beef recipes
+- [ ] [[2025-09-24-make-an-omelet]] — Make an omelet
+- [ ] [[2025-09-24-steak-fried-rice-recipe]] — Steak fried rice recipe
+- [ ] [[2025-09-26-chicken-parm-recipe]] — Chicken parm recipe
+- [ ] [[2025-09-26-top-sirloin-recipe]] — Top sirloin recipe
+- [ ] [[2025-10-15-chicken-wings-safety-check]] — Chicken wings safety check
+- [ ] [[2025-10-17-cook-purdue-chicken-nachos]] — Cook Purdue chicken nachos
+- [ ] [[2025-10-19-steak-fried-rice-recipe]] — Steak fried rice recipe
+- [ ] [[2025-10-20-spaghetti-with-beef-sauce]] — Spaghetti with beef sauce
+- [ ] [[2025-10-24-buffalo-sauce-recipe]] — Buffalo sauce recipe
+- [ ] [[2025-10-25-make-french-toast]] — Make French toast
+- [ ] [[2025-10-28-chill-restaurant-in-raleigh]] — Chill restaurant in Raleigh
+- [ ] [[2025-11-07-best-instant-ramen-ranking]] — Best instant ramen ranking
+- [ ] [[2025-11-08-french-toast-recipe]] — French toast recipe
+- [ ] [[2025-11-17-daily-meal-plan-for-muscle]] — Daily meal plan for muscle
+- [ ] [[2025-11-19-beef-and-rice-meal-prep]] — Beef and rice meal prep
+- [ ] [[2025-11-20-fried-rice-recipe]] — Fried rice recipe
+- [ ] [[2025-11-22-ground-beef-quesadilla-recipe]] — Ground beef quesadilla recipe
+- [ ] [[2025-11-23-best-rice-types]] — Best rice types
+- [ ] [[2025-12-06-meat-thermometer-usage-guide]] — Meat thermometer usage guide
+- [ ] [[2025-12-09-chicken-wing-cooking-methods]] — Chicken wing cooking methods
+- [ ] [[2025-12-18-leftover-burger-ideas]] — Leftover burger ideas
+- [ ] [[2025-12-22-rotate-pan-not-cookies]] — Rotate pan not cookies
+- [ ] [[2025-12-30-thin-ribeye-steak-query]] — Thin ribeye steak query
+- [ ] [[2026-01-01-best-liquor-mixes]] — Best Liquor Mixes
+- [ ] [[2026-01-02-chicken-tenders-meal-idea]] — Chicken Tenders Meal Idea
+- [ ] [[2026-01-13-popcorn-chicken-orange-sauce]] — Popcorn Chicken Orange Sauce
+- [ ] [[2026-01-20-shaved-steak-grilled-cheese]] — Shaved Steak Grilled Cheese
+- [ ] [[2026-01-21-ramen-with-egg-tips]] — Ramen with Egg Tips
+- [ ] [[2026-01-22-ground-beef-seasoning]] — Ground beef seasoning
+- [ ] [[2026-01-24-fried-rice-tips]] — Fried Rice Tips
+- [ ] [[2026-01-24-general-tso-chicken-prep]] — General Tso Chicken Prep
+- [ ] [[2026-01-26-shaved-steak-dinner-ideas]] — Shaved Steak Dinner Ideas
+- [ ] [[2026-01-30-walmart-sirloin-steak-options]] — Walmart Sirloin Steak Options
+- [ ] [[2026-02-04-top-round-beef-fried-rice]] — Top Round Beef Fried Rice
+- [ ] [[2026-02-07-shaved-steak-ideas]] — Shaved Steak Ideas
+- [ ] [[2026-02-08-ny-strip-steak-recipe]] — NY Strip Steak Recipe
+- [ ] [[2026-02-08-shaved-steak-cheese]] — Shaved Steak & Cheese
+- [ ] [[2026-02-17-homemade-taco-seasoning]] — Homemade Taco Seasoning
+- [ ] [[2026-02-24-shaved-steak-fried-rice]] — Shaved Steak Fried Rice
+- [ ] [[2026-02-27-corn-tortilla-ideas]] — Corn tortilla ideas
+- [ ] [[2026-03-04-fajita-seasoned-steak-tips]] — Fajita Seasoned Steak Tips
+- [ ] [[2026-03-06-quick-ground-turkey-dinner]] — Quick Ground Turkey Dinner
+- [ ] [[2026-03-12-on-cor-chicken-parm-upgrade]] — On-Cor Chicken Parm Upgrade
+- [ ] [[2026-03-16-ground-beef-burrito]] — Ground Beef Burrito
+- [ ] [[2026-03-30-shaved-steak-fried-rice]] — Shaved Steak Fried Rice
+- [ ] [[2026-03-30-thin-ny-strip-cooking]] — Thin NY Strip Cooking
+- [ ] [[2026-04-19-beef-ramen-recipe]] — Beef Ramen Recipe
+- [ ] [[2026-04-21-rice-cooker-fried-rice-tips]] — Rice cooker fried rice tips
+- [ ] [[2026-04-27-cooking-ribeye-steak]] — Cooking Ribeye Steak
+- [ ] [[2026-04-28-uses-for-cheddar-cheese]] — Uses for Cheddar Cheese
+- [ ] [[2026-04-29-cold-rice-safety-tips]] — Cold Rice Safety Tips
+- [ ] [[2026-04-30-rice-safety-advice]] — Rice Safety Advice
+- [ ] [[2026-05-10-wine-pairing-with-steak]] — Wine Pairing with Steak
+- [ ] [[2026-05-19-chicken-breast-ideas]] — Chicken Breast Ideas
+- [ ] [[2026-05-21-baked-chicken-grilled-cheese]] — Baked Chicken Grilled Cheese
+- [ ] [[2026-06-04-steak-and-potato-pairing]] — Steak and Potato Pairing
+- [ ] [[2026-06-09-cheddar-use-cases]] — Cheddar Use Cases
+- [ ] [[2026-06-10-ground-beef-quesadillas]] — Ground Beef Quesadillas
+- [ ] [[2026-06-13-buffalo-wings-recipe]] — Buffalo Wings Recipe
+- [ ] [[2026-06-17-steak-tips-recipe]] — Steak Tips Recipe
+- [ ] [[2026-06-18-oven-bacon-cooking-tips]] — Oven bacon cooking tips
+- [ ] [[2026-06-19-average-btc-purchase-price]] — Average BTC Purchase Price
+- [ ] [[2026-06-19-bacon-cheese-fries-info]] — Bacon Cheese Fries Info
+- [ ] [[2026-06-20-steak-egg-cheese-sandwich]] — Steak Egg Cheese Sandwich
+- [ ] [[2026-06-26-shaved-steak-recipes]] — Shaved Steak Recipes
+- [ ] [[2026-06-27-leftover-patty-ideas]] — Leftover Patty Ideas
+- [ ] [[2026-06-28-loaded-cheese-fries-recipe]] — Loaded Cheese Fries Recipe
+- [ ] [[2026-06-29-oven-bacon-tips]] — Oven Bacon Tips
+- [ ] [[2026-06-30-chicken-breast-ideas]] — Chicken breast ideas
+- [ ] [[2026-07-07-leftover-burger-rice]] — Leftover Burger Rice
+- [ ] [[2026-07-08-turkey-and-rice-bowl]] — Turkey and Rice Bowl
+- [ ] [[2026-07-09-egg-ramen-recipes]] — Egg Ramen Recipes
+- [ ] [[2026-07-23-steak-rice-bowl-recipe]] — Steak Rice Bowl Recipe
+- [ ] [[2026-07-25-egg-beef-rice-meals]] — Egg Beef Rice Meals
+
+## General & Life Admin (23)
+
+- [ ] [[2024-11-24-clarificacin-solicitud-usuario]] — Clarificación solicitud usuario
+- [ ] [[2024-12-02-home-assistance]] — Home Assistance
+- [ ] [[2024-12-16-thats-a-friend]] — That's a friend
+- [ ] [[2025-01-27-gif-suggestion-request]] — Gif suggestion request
+- [ ] [[2025-01-29-delay-and-lagrange-office]] — Delay and Lagrange Office
+- [ ] [[2025-03-30-program-recommendation-request]] — Program Recommendation Request
+- [ ] [[2025-04-20-conversation-summary-request]] — Conversation Summary Request
+- [ ] [[2025-06-23-busy-until-wednesday]] — Busy Until Wednesday
+- [ ] [[2025-08-27-dirty-fantasy-names]] — Dirty fantasy names
+- [ ] [[2025-08-27-joke-for-exaggeration]] — Joke for exaggeration
+- [ ] [[2025-09-23-create-chart-from-data]] — Create chart from data
+- [ ] [[2025-10-24-rank-titan-powers]] — Rank titan powers
+- [ ] [[2026-02-25-battery-cooking-accident]] — Battery Cooking Accident
+- [ ] [[2026-03-10-laptop-resale-pricing]] — Laptop Resale Pricing
+- [ ] [[2026-03-12-user-inquiry-initiation]] — User inquiry initiation
+- [ ] [[2026-03-15-greeting-message]] — Greeting message
+- [ ] [[2026-03-28-no-conversation-content]] — No conversation content
+- [ ] [[2026-03-29-greeting-message]] — Greeting message
+- [ ] [[2026-03-29-greeting-response]] — Greeting response
+- [ ] [[2026-03-30-power-activation-timeline]] — Power activation timeline
+- [ ] [[2026-04-09-general-conversation]] — General conversation
+- [ ] [[2026-05-04-keens-cheddar-uses]] — Keen's Cheddar Uses
+- [ ] [[2026-06-23-last-wash-meaning]] — Last Wash Meaning
+
+## Health & Fitness (23)
+
+- [ ] [[2023-03-02-bjj-gym-about-page]] — BJJ Gym About Page
+- [ ] [[2023-03-03-bjj-champion-andr-galvo]] — BJJ champion André Galvão
+- [ ] [[2023-03-03-bjj-class-webpage-predraft]] — BJJ Class Webpage Predraft
+- [ ] [[2023-03-03-bjj-gym-schedule]] — BJJ Gym Schedule
+- [ ] [[2025-01-18-getting-stronger-tips]] — Getting Stronger Tips
+- [ ] [[2025-03-03-macro-goal-breakdown]] — Macro Goal Breakdown
+- [ ] [[2025-07-18-ice-cream-vs-hot-cheetos]] — Ice Cream vs Hot Cheetos
+- [ ] [[2025-07-26-romanian-deadlift-tips]] — Romanian Deadlift Tips
+- [ ] [[2025-07-28-trace-blood-in-urine]] — Trace Blood in Urine
+- [ ] [[2025-07-29-healthy-unhealthy-balance]] — Healthy Unhealthy Balance
+- [ ] [[2025-07-29-low-urobilinogen-causes]] — Low Urobilinogen Causes
+- [ ] [[2025-08-21-calorie-and-macro-plan]] — Calorie and macro plan
+- [ ] [[2026-02-13-skipping-meals-today]] — Skipping meals today
+- [ ] [[2026-03-05-moderately-unhealthy-eating-habits]] — Moderately Unhealthy Eating Habits
+- [ ] [[2026-03-10-half-marathon-recovery-time]] — Half Marathon Recovery Time
+- [ ] [[2026-03-24-sleep-needs-for-active-lifestyles]] — Sleep Needs for Active Lifestyles
+- [ ] [[2026-03-26-running-trails-near-me]] — Running Trails Near Me
+- [ ] [[2026-03-29-cancel-ymca-membership]] — Cancel YMCA Membership
+- [ ] [[2026-03-29-fitlab-manchester-cost]] — Fitlab Manchester cost
+- [ ] [[2026-06-09-leg-day-re-entry-workout]] — Leg Day Re-entry Workout
+- [ ] [[2026-06-12-air-force-1s-for-deadlifts]] — Air Force 1s for Deadlifts
+- [ ] [[2026-07-01-calorie-intake-for-weight-loss]] — Calorie intake for weight loss
+- [ ] [[2026-07-09-liquid-iv-hydration-info]] — Liquid I.V. Hydration Info
+
+## Home Lab, Networking & Smart Home (121)
+
+- [ ] [[2025-02-05-virtualization-overview]] — Virtualization Overview
+- [ ] [[2025-02-25-subnetting-tips-for-n]] — Subnetting Tips for N+
+- [ ] [[2025-04-22-diy-nas-with-elitedesk]] — DIY NAS with EliteDesk
+- [ ] [[2025-08-18-dns-resolving-to-127001]] — DNS resolving to 127.0.0.1
+- [ ] [[2025-10-07-dropbox-decommissioning-notice]] — Dropbox decommissioning notice
+- [ ] [[2025-11-24-fix-unifi-ap-connection]] — Fix UniFi AP connection
+- [ ] [[2025-11-24-mount-synology-on-nuc]] — Mount Synology on NUC
+- [ ] [[2025-11-24-static-ip-for-nas]] — Static IP for NAS
+- [ ] [[2025-11-29-ethernet-connection-troubleshooting]] — Ethernet connection troubleshooting
+- [ ] [[2025-11-29-install-plex-and-mount-shares]] — Install Plex and mount shares
+- [ ] [[2025-12-02-cheapest-unifi-protect-setup]] — Cheapest UniFi Protect setup
+- [ ] [[2025-12-03-calibre-server-on-synology]] — Calibre server on Synology
+- [ ] [[2025-12-09-setup-st400-guide]] — Setup ST400 guide
+- [ ] [[2025-12-15-board-comparison-recommendation]] — Board comparison recommendation
+- [ ] [[2025-12-22-node-connection-issues]] — Node connection issues
+- [ ] [[2025-12-27-rack-setup-diagram]] — Rack Setup Diagram
+- [ ] [[2026-02-21-network-setup-upgrades]] — Network Setup Upgrades
+- [ ] [[2026-02-21-nuc-synology-mount-issues]] — NUC Synology Mount Issues
+- [ ] [[2026-02-22-linux-blank-terminal-issue]] — Linux Blank Terminal Issue
+- [ ] [[2026-02-22-putty-ssh-connection-issue]] — PuTTY SSH Connection Issue
+- [ ] [[2026-02-23-unifi-cloud-key-restore]] — UniFi Cloud Key Restore
+- [ ] [[2026-02-24-storage-pool-degraded-help]] — Storage Pool Degraded Help
+- [ ] [[2026-02-25-unifi-camera-ip-setup]] — UniFi Camera IP Setup
+- [ ] [[2026-02-26-home-lab-project-ideas]] — Home Lab Project Ideas
+- [ ] [[2026-02-26-smart-home-privacy-tips]] — Smart Home Privacy Tips
+- [ ] [[2026-02-27-buying-used-dream-machine]] — Buying Used Dream Machine
+- [ ] [[2026-02-27-cloudkey-night-mode-control]] — Cloudkey Night Mode Control
+- [ ] [[2026-02-27-network-devices-offline-troubleshooting]] — Network Devices Offline Troubleshooting
+- [ ] [[2026-02-28-smart-home-infrastructure-plan]] — Smart Home Infrastructure Plan
+- [ ] [[2026-03-01-home-assistant-setup-guide]] — Home assistant setup guide
+- [ ] [[2026-03-01-unifi-flows-explanation]] — UniFi Flows Explanation
+- [ ] [[2026-03-05-network-technology-trends-2025]] — Network Technology Trends 2025
+- [ ] [[2026-03-05-old-laptop-repurposing-ideas]] — Old Laptop Repurposing Ideas
+- [ ] [[2026-03-06-homelab-setup-advice]] — Homelab Setup Advice
+- [ ] [[2026-03-06-nuc10-value-assessment]] — NUC10 Value Assessment
+- [ ] [[2026-03-06-restrict-local-access-meaning]] — Restrict Local Access Meaning
+- [ ] [[2026-03-08-home-lab-equipment-setup]] — Home Lab Equipment Setup
+- [ ] [[2026-03-08-yealink-wireless-pod-uses]] — Yealink Wireless Pod Uses
+- [ ] [[2026-03-09-backup-laptop-setup]] — Backup Laptop Setup
+- [ ] [[2026-03-10-laptop-use-for-homelab]] — Laptop Use for Homelab
+- [ ] [[2026-03-12-network-and-software-stack]] — Network and Software Stack
+- [ ] [[2026-03-12-pi-hole-vs-agh]] — Pi-hole vs AGH
+- [ ] [[2026-03-12-unifi-vpn-setup-guide]] — UniFi VPN Setup Guide
+- [ ] [[2026-03-12-yellow-rj45-cable-use]] — Yellow RJ45 Cable Use
+- [ ] [[2026-03-14-3tb-storage-setup-ideas]] — 3TB Storage Setup Ideas
+- [ ] [[2026-03-15-continue-network-setup]] — Continue network setup
+- [ ] [[2026-03-15-pi-hole-setup-recommendations]] — Pi-hole setup recommendations
+- [ ] [[2026-03-20-pi-hole-for-chat-apps]] — Pi-hole for Chat Apps
+- [ ] [[2026-03-20-pi-hole-on-raspberry-pi]] — Pi-hole on Raspberry Pi
+- [ ] [[2026-03-21-browser-choices-for-pi]] — Browser Choices for Pi
+- [ ] [[2026-03-21-what-is-tailscale]] — What is Tailscale
+- [ ] [[2026-03-22-set-up-pi-hole-steps]] — Set up Pi-hole steps
+- [ ] [[2026-03-25-headless-vs-remote-pi]] — Headless vs Remote Pi
+- [ ] [[2026-03-25-home-lab-document-rebuild]] — Home Lab Document Rebuild
+- [ ] [[2026-03-25-raspberry-pi-for-home-assistant]] — Raspberry Pi for Home Assistant
+- [ ] [[2026-03-26-tech-philosophy-for-engineers]] — Tech Philosophy for Engineers
+- [ ] [[2026-03-28-zigbee-lamp-upgrade]] — Zigbee Lamp Upgrade
+- [ ] [[2026-03-29-cool-apple-tv-features]] — Cool Apple TV Features
+- [ ] [[2026-03-29-mini-pc-vs-pi-5]] — Mini PC vs Pi 5
+- [ ] [[2026-03-29-nuc-power-adapter-compatibility]] — NUC Power Adapter Compatibility
+- [ ] [[2026-03-29-wifi-lease-options]] — WiFi Lease Options
+- [ ] [[2026-03-31-connect-pi-via-browser]] — Connect Pi via Browser
+- [ ] [[2026-03-31-home-assistant-in-proxmox]] — Home Assistant in Proxmox
+- [ ] [[2026-03-31-identify-intel-nuc-specs]] — Identify Intel NUC Specs
+- [ ] [[2026-03-31-next-steps-for-setup]] — Next Steps for Setup
+- [ ] [[2026-03-31-usb-boot-detection-issue]] — USB Boot Detection Issue
+- [ ] [[2026-04-01-documentation-software-options]] — Documentation software options
+- [ ] [[2026-04-05-pi-hole-blocking-ufc-stream]] — Pi-hole Blocking UFC Stream
+- [ ] [[2026-04-07-running-local-llms]] — Running local LLMs
+- [ ] [[2026-04-13-netdirector-kvm-overview]] — NetDirector KVM Overview
+- [ ] [[2026-04-13-rack-server-use-cases]] — Rack Server Use Cases
+- [ ] [[2026-04-19-avr-x1000-deal-evaluation]] — AVR-X1000 Deal Evaluation
+- [ ] [[2026-04-19-synology-shr-degraded-issue]] — Synology SHR Degraded Issue
+- [ ] [[2026-04-19-unifi-xfinity-network-issue]] — UniFi Xfinity Network Issue
+- [ ] [[2026-04-20-proxmox-login-issue]] — Proxmox login issue
+- [ ] [[2026-04-20-unifi-8-port-poe-power]] — UniFi 8-Port PoE Power
+- [ ] [[2026-04-23-home-lab-setup-move]] — Home lab setup move
+- [ ] [[2026-04-25-e12-zigbee-smart-bulbs]] — E12 Zigbee Smart Bulbs
+- [ ] [[2026-04-25-smart-light-strip-placement]] — Smart Light Strip Placement
+- [ ] [[2026-04-27-functional-homelab-rack-prints]] — Functional Homelab Rack Prints
+- [ ] [[2026-04-29-reenable-pi-hole-server]] — Reenable Pi-hole Server
+- [ ] [[2026-04-30-home-assistant-disk-size]] — Home Assistant Disk Size
+- [ ] [[2026-04-30-home-assistant-proxmox-setup]] — Home Assistant Proxmox Setup
+- [ ] [[2026-04-30-home-assistant-setup-guide]] — Home Assistant Setup Guide
+- [ ] [[2026-04-30-home-assistant-setup-proxmox]] — Home Assistant Setup Proxmox
+- [ ] [[2026-04-30-homelab-machine-setup]] — Homelab Machine Setup
+- [ ] [[2026-05-01-bad-pull-home-lab]] — Bad Pull Home Lab
+- [ ] [[2026-05-01-home-assistant-setup-help]] — Home Assistant Setup Help
+- [ ] [[2026-05-01-ubiquiti-networking-overview]] — Ubiquiti Networking Overview
+- [ ] [[2026-05-01-ubuntu-download-issue]] — Ubuntu download issue
+- [ ] [[2026-05-09-unauthenticated-requests-explained]] — Unauthenticated Requests Explained
+- [ ] [[2026-05-11-branch-unauthenticated-requests-explained]] — Branch · Unauthenticated Requests Explained
+- [ ] [[2026-05-11-enable-ssh-ubuntu]] — Enable SSH Ubuntu
+- [ ] [[2026-05-12-grafana-placement-in-stack]] — Grafana Placement in Stack
+- [ ] [[2026-05-12-proxmox-login-issue-fix]] — Proxmox login issue fix
+- [ ] [[2026-05-15-home-assistant-setup-guide]] — Home Assistant Setup Guide
+- [ ] [[2026-05-15-home-assistant-setup-tips]] — Home Assistant Setup Tips
+- [ ] [[2026-05-22-backup-850-clarification]] — Backup 850 Clarification
+- [ ] [[2026-05-22-used-ubiquiti-g4-deal]] — Used Ubiquiti G4 Deal
+- [ ] [[2026-05-23-network-documentation-tools]] — Network documentation tools
+- [ ] [[2026-05-24-ssh-permission-denied-troubleshooting]] — SSH Permission Denied Troubleshooting
+- [ ] [[2026-05-27-camera-stand-setup-tips]] — Camera Stand Setup Tips
+- [ ] [[2026-05-27-obsidian-homelab-documentation]] — Obsidian Homelab Documentation
+- [ ] [[2026-06-01-home-assistant-automations]] — Home Assistant Automations
+- [ ] [[2026-06-01-open-box-switchbot-lock-deal]] — Open-box SwitchBot Lock Deal
+- [ ] [[2026-06-01-smart-bot-lock-comparison]] — Smart Bot Lock Comparison
+- [ ] [[2026-06-01-smart-lock-options]] — Smart Lock Options
+- [ ] [[2026-06-02-authentication-failure-troubleshooting]] — Authentication Failure Troubleshooting
+- [ ] [[2026-06-02-auto-update-plex-setup]] — Auto-update Plex Setup
+- [ ] [[2026-06-04-nas-drive-compatibility]] — NAS Drive Compatibility
+- [ ] [[2026-06-07-export-entity-list-ha]] — Export Entity List HA
+- [ ] [[2026-06-07-home-assistant-automations]] — Home Assistant Automations
+- [ ] [[2026-06-07-home-lab-power-analysis]] — Home Lab Power Analysis
+- [ ] [[2026-06-07-wi-fi-network-detection-issue]] — Wi-Fi Network Detection Issue
+- [ ] [[2026-06-08-flashing-bulb-troubleshooting]] — Flashing Bulb Troubleshooting
+- [ ] [[2026-06-08-ikea-button-automations]] — IKEA Button Automations
+- [ ] [[2026-06-28-obsidian-sync-linux-mac]] — Obsidian Sync Linux Mac
+- [ ] [[2026-06-28-xrdp-login-troubleshooting]] — XRDP login troubleshooting
+- [ ] [[2026-07-11-monthly-homelab-maintenance]] — Monthly Homelab Maintenance
+- [ ] [[2026-07-15-logitech-tap-pairing-issue]] — Logitech Tap Pairing Issue
+- [ ] [[2026-07-17-tailscale-ssh-issue]] — Tailscale SSH Issue
+
+## Home, Apartment & Shopping (59)
+
+- [ ] [[2023-05-04-logitech-speaker-recommendations]] — Logitech speaker recommendations.
+- [ ] [[2023-09-26-speaker-options-comparison-amazon-edifier-logitech]] — Speaker Options Comparison: Amazon, Edifier, Logitech
+- [ ] [[2025-02-16-generator-start-up-instructions]] — Generator Start-Up Instructions
+- [ ] [[2025-03-26-rental-discount-inquiry]] — Rental Discount Inquiry
+- [ ] [[2025-03-26-similar-apartments-in-manchester]] — Similar Apartments in Manchester
+- [ ] [[2025-07-13-vacuum-spider-kill-speed]] — Vacuum Spider Kill Speed
+- [ ] [[2025-08-28-postage-label-explanation]] — Postage label explanation
+- [ ] [[2025-10-21-clean-electric-stove-top]] — Clean electric stove top
+- [ ] [[2025-12-26-cleaning-cream-from-seats]] — Cleaning Cream from Seats
+- [ ] [[2026-01-11-hdtv-antenna-for-sports]] — HDTV Antenna for Sports
+- [ ] [[2026-02-13-ceiling-water-damage-rights]] — Ceiling Water Damage Rights
+- [ ] [[2026-02-27-selling-on-facebook-marketplace]] — Selling on Facebook Marketplace
+- [ ] [[2026-03-06-apartment-rent-cost-spread]] — Apartment Rent Cost Spread
+- [ ] [[2026-03-12-monthly-rent-nashua-nh]] — Monthly Rent Nashua NH
+- [ ] [[2026-03-12-move-out-deadline-clarification]] — Move-out Deadline Clarification
+- [ ] [[2026-03-21-bose-301-v-speakers]] — Bose 301 V Speakers
+- [ ] [[2026-03-25-package-pickup-request]] — Package Pickup Request
+- [ ] [[2026-03-28-move-out-cleaning-checklist]] — Move-Out Cleaning Checklist
+- [ ] [[2026-03-29-best-plants-for-trellis]] — Best Plants for Trellis
+- [ ] [[2026-04-06-usps-qr-label-printing]] — USPS QR Label Printing
+- [ ] [[2026-04-07-best-walmart-tvs-2026]] — Best Walmart TVs 2026
+- [ ] [[2026-04-07-cheap-av-receiver-guide]] — Cheap AV Receiver Guide
+- [ ] [[2026-04-07-home-office-layout-tips]] — Home Office Layout Tips
+- [ ] [[2026-04-08-hat-wall-spacing-tips]] — Hat Wall Spacing Tips
+- [ ] [[2026-04-08-tv-mounting-height-tips]] — TV mounting height tips
+- [ ] [[2026-04-09-fixing-x-frame-stand]] — Fixing X-frame Stand
+- [ ] [[2026-04-09-key-return-and-move-out]] — Key Return and Move-Out
+- [ ] [[2026-04-10-drill-bit-size-for-wood]] — Drill Bit Size for Wood
+- [ ] [[2026-04-10-hex-nut-driver-bit-identification]] — Hex Nut Driver Bit Identification
+- [ ] [[2026-04-10-tv-mounting-recommendations]] — TV Mounting Recommendations
+- [ ] [[2026-04-12-stud-spacing-information]] — Stud spacing information
+- [ ] [[2026-04-13-laundromat-washer-timing]] — Laundromat Washer Timing
+- [ ] [[2026-04-14-curtain-hanging-tips]] — Curtain Hanging Tips
+- [ ] [[2026-04-14-tv-mounting-in-apartments]] — TV Mounting in Apartments
+- [ ] [[2026-04-15-alternative-drill-bit-sizes]] — Alternative Drill Bit Sizes
+- [ ] [[2026-04-15-buying-used-receivers-tips]] — Buying Used Receivers Tips
+- [ ] [[2026-04-17-denon-avr-x2300w-deal-advice]] — Denon AVR-X2300W Deal Advice
+- [ ] [[2026-04-18-maximizing-space-and-layout]] — Maximizing Space and Layout
+- [ ] [[2026-04-19-sonos-deal-evaluation]] — Sonos Deal Evaluation
+- [ ] [[2026-04-23-av-setup-for-bose-speakers]] — AV Setup for Bose Speakers
+- [ ] [[2026-04-23-bose-bass-module-setup]] — Bose Bass Module Setup
+- [ ] [[2026-04-26-cleaning-vinegar-degreasing-guide]] — Cleaning Vinegar Degreasing Guide
+- [ ] [[2026-04-26-living-room-styling-tips]] — Living Room Styling Tips
+- [ ] [[2026-04-27-storage-optimization-tips]] — Storage Optimization Tips
+- [ ] [[2026-04-28-sonos-s1-deal-analysis]] — Sonos S1 Deal Analysis
+- [ ] [[2026-04-29-vin-sharing-on-marketplace]] — VIN Sharing on Marketplace
+- [ ] [[2026-04-30-tiny-spiders-in-apartment]] — Tiny Spiders in Apartment
+- [ ] [[2026-05-01-denon-avr-remote-options]] — Denon AVR Remote Options
+- [ ] [[2026-05-04-power-mop-vs-wetjet]] — Power Mop vs WetJet
+- [ ] [[2026-05-08-found-apartment-key-return]] — Found apartment key return
+- [ ] [[2026-05-12-avr-purchase-evaluation]] — AVR Purchase Evaluation
+- [ ] [[2026-05-14-homepod-mini-setup-error]] — HomePod mini Setup Error
+- [ ] [[2026-05-15-homepod-setup-fixes]] — HomePod Setup Fixes
+- [ ] [[2026-05-15-homepod-setup-issue]] — HomePod Setup Issue
+- [ ] [[2026-05-16-av-receiver-no-voice-fix]] — AV Receiver No Voice Fix
+- [ ] [[2026-05-18-best-fan-for-living-room]] — Best Fan for Living Room
+- [ ] [[2026-05-19-reviving-spider-plant]] — Reviving Spider Plant
+- [ ] [[2026-06-01-fan-recommendations-for-rooms]] — Fan Recommendations for Rooms
+- [ ] [[2026-07-03-identifying-tiny-house-bugs]] — Identifying Tiny House Bugs
+
+## Learning & Reference (26)
+
+- [ ] [[2023-03-29-learn-sql-basics]] — Learn SQL basics.
+- [ ] [[2023-03-29-quantum-computing-explained]] — Quantum Computing Explained
+- [ ] [[2023-05-10-ccna-study-tips]] — CCNA Study Tips
+- [ ] [[2024-11-22-ccna-study-guide]] — CCNA Study Guide
+- [ ] [[2025-01-08-network-study-guide]] — Network+ Study Guide
+- [ ] [[2025-01-27-networking-11-quiz]] — Networking+ 1.1 Quiz
+- [ ] [[2025-04-22-aprender-espaol-bsico]] — Aprender español básico
+- [ ] [[2025-09-03-learn-spanish-effectively]] — Learn Spanish effectively
+- [ ] [[2025-12-07-world-stability-comparison]] — World stability comparison
+- [ ] [[2026-01-08-missing-noses-on-statues]] — Missing Noses on Statues
+- [ ] [[2026-03-12-ccna-study-plan-tips]] — CCNA Study Plan Tips
+- [ ] [[2026-03-18-brazil-african-ancestry]] — Brazil African Ancestry
+- [ ] [[2026-04-03-holocaust-evidence-denial]] — Holocaust evidence denial
+- [ ] [[2026-04-04-mandarin-translation-request]] — Mandarin Translation Request
+- [ ] [[2026-04-05-geomagnetic-storms-and-solar-cycle]] — Geomagnetic Storms and Solar Cycle
+- [ ] [[2026-04-25-building-submersibles-safely]] — Building Submersibles Safely
+- [ ] [[2026-05-09-iran-war-continuation-likelihood]] — Iran War Continuation Likelihood
+- [ ] [[2026-05-16-french-revolution-significance]] — French Revolution Significance
+- [ ] [[2026-05-29-geopolitical-trade-analysis]] — Geopolitical Trade Analysis
+- [ ] [[2026-06-11-autonomous-vehicle-ideas]] — Autonomous Vehicle Ideas
+- [ ] [[2026-06-28-cheapest-spain-flight-points]] — Cheapest Spain Flight Points
+- [ ] [[2026-07-01-birds-defending-against-hawks]] — Birds defending against hawks
+- [ ] [[2026-07-03-bible-audiobook-recommendations]] — Bible audiobook recommendations
+- [ ] [[2026-07-11-invention-of-steam-engines]] — Invention of Steam Engines
+- [ ] [[2026-07-22-amateur-radio-licensing-guide]] — Amateur radio licensing guide
+- [ ] [[2026-07-23-original-trees-east-coast]] — Original Trees East Coast
+
+## Relationships & Social (14)
+
+- [ ] [[2024-12-11-christmas-gift-ideas]] — Christmas gift ideas
+- [ ] [[2024-12-31-breakup-advice-and-clarity]] — Breakup Advice and Clarity
+- [ ] [[2025-01-29-not-my-circus-meaning]] — Not my circus meaning
+- [ ] [[2025-03-30-southern-boss-inquiry]] — Southern Boss Inquiry
+- [ ] [[2025-06-17-first-date-gift-ideas]] — First Date Gift Ideas
+- [ ] [[2025-06-21-message-idea-for-jessica]] — Message Idea for Jessica
+- [ ] [[2025-07-09-second-date-gift-advice]] — Second date gift advice
+- [ ] [[2025-07-19-sex-first-time-duration]] — Sex First Time Duration
+- [ ] [[2025-07-22-concert-invite-reply-tips]] — Concert Invite Reply Tips
+- [ ] [[2025-07-26-cheating-trends-by-gender]] — Cheating Trends by Gender
+- [ ] [[2025-10-12-phrasing-a-question-smoothly]] — Phrasing a question smoothly
+- [ ] [[2026-01-04-marriage-congrats-message]] — Marriage Congrats Message
+- [ ] [[2026-01-04-message-tone-suggestions]] — Message Tone Suggestions
+- [ ] [[2026-05-17-sister-graduation-message]] — Sister Graduation Message
+
+## Sports & Entertainment (35)
+
+- [ ] [[2023-04-24-ufc-287-recap]] — UFC 287 Recap.
+- [ ] [[2023-05-23-improve-mma-cardio]] — Improve MMA Cardio
+- [ ] [[2023-09-26-sports-updates-ufc-nfl-nba]] — Sports Updates: UFC, NFL, NBA
+- [ ] [[2025-01-28-th12-base-layouts]] — TH12 Base Layouts
+- [ ] [[2025-02-06-song-recommendation-summary]] — Song recommendation summary
+- [ ] [[2025-03-01-funny-mma-intro-ideas]] — Funny MMA Intro Ideas
+- [ ] [[2025-03-02-ramadan-fight-perception]] — Ramadan Fight Perception
+- [ ] [[2025-03-05-cool-mma-boxing-quotes-1]] — Cool MMA Boxing Quotes
+- [ ] [[2025-03-05-cool-mma-boxing-quotes]] — Cool MMA Boxing Quotes
+- [ ] [[2025-03-10-magomed-next-fight]] — Magomed Next Fight
+- [ ] [[2025-03-17-mma-mac-show-promo]] — MMA Mac Show Promo
+- [ ] [[2025-03-21-fighter-comparison-analysis]] — Fighter Comparison Analysis
+- [ ] [[2025-03-21-weekly-picks-review]] — Weekly Picks Review
+- [ ] [[2025-04-11-ufc-314-social-media]] — UFC 314 Social Media
+- [ ] [[2025-04-12-ufc-314-picks-analysis]] — UFC 314 Picks Analysis
+- [ ] [[2025-04-13-pick-analysis-vs-results]] — Pick Analysis vs Results
+- [ ] [[2025-04-15-fantasy-league-refund-request]] — Fantasy League Refund Request
+- [ ] [[2025-04-30-ufc-kansas-city-results]] — UFC Kansas City Results
+- [ ] [[2025-07-03-movies-for-25-year-olds]] — Movies for 25-Year-Olds
+- [ ] [[2025-07-30-favorite-singer-suggestions]] — Favorite Singer Suggestions
+- [ ] [[2025-08-30-pick-em-league-advice]] — Pick em league advice
+- [ ] [[2025-12-08-snowboard-length-advice]] — Snowboard length advice
+- [ ] [[2025-12-18-kanye-adidas-lyrics]] — Kanye Adidas lyrics
+- [ ] [[2025-12-18-snowboard-waxing-before-use]] — Snowboard waxing before use
+- [ ] [[2025-12-21-song-lyric-match]] — Song lyric match
+- [ ] [[2025-12-21-ufc-vs-espn-ppv-revenue]] — UFC vs ESPN PPV revenue
+- [ ] [[2025-12-23-gnu-vs-yes-snowboards]] — GNU vs YES Snowboards
+- [ ] [[2025-12-23-yes-shifter-3d-157-w]] — Yes Shifter 3D 157 W
+- [ ] [[2026-02-09-best-tight-end-debate]] — Best Tight End Debate
+- [ ] [[2026-02-12-best-guns-fallout-4]] — Best Guns Fallout 4
+- [ ] [[2026-02-12-easy-caps-in-fallout-4]] — Easy Caps in Fallout 4
+- [ ] [[2026-02-12-sell-quickdraw-laser-rifle]] — Sell QuickDraw Laser Rifle?
+- [ ] [[2026-03-14-18-casinos-new-england]] — 18+ Casinos New England
+- [ ] [[2026-03-18-how-to-play-darts]] — How to Play Darts
+- [ ] [[2026-05-09-hard-work-quotes]] — Hard Work Quotes
+
+## Style & Grooming (16)
+
+- [ ] [[2025-11-09-unshrink-yeezys-guide]] — Unshrink Yeezys Guide
+- [ ] [[2025-12-19-improve-photo-attractiveness]] — Improve photo attractiveness
+- [ ] [[2025-12-19-mog-your-photos-tips]] — Mog your photos tips
+- [ ] [[2026-02-05-haircut-mac]] — haircut mac
+- [ ] [[2026-02-19-outfit-evaluation-and-tips]] — Outfit Evaluation and Tips
+- [ ] [[2026-03-26-hair-removal-request]] — Hair Removal Request
+- [ ] [[2026-04-08-glasses-recommendations-for-face]] — Glasses Recommendations for Face
+- [ ] [[2026-04-10-haircut-suggestions-for-texture]] — Haircut Suggestions for Texture
+- [ ] [[2026-04-10-sneaker-trends-2026]] — Sneaker Trends 2026
+- [ ] [[2026-06-13-beard-growth-tips]] — Beard Growth Tips
+- [ ] [[2026-06-13-looksmax-advice-framework]] — Looksmax Advice Framework
+- [ ] [[2026-06-13-work-outfit-feedback]] — Work Outfit Feedback
+- [ ] [[2026-06-20-beard-growth-feedback]] — Beard Growth Feedback
+- [ ] [[2026-06-20-jersey-shore-party-outfit]] — Jersey Shore Party Outfit
+- [ ] [[2026-06-26-outfit-suggestions-for-polo]] — Outfit suggestions for polo
+- [ ] [[2026-07-17-personal-grooming-suggestions]] — Personal Grooming Suggestions
+
+## Tech Support (General) (39)
+
+- [ ] [[2023-05-10-brother-mfcl2710dw-review]] — Brother MFCL2710DW Review
+- [ ] [[2023-09-28-cannot-browse-the-internet]] — Cannot browse the internet.
+- [ ] [[2024-01-05-android-shipment-update]] — Android Shipment Update
+- [ ] [[2025-01-27-laptop-return-deadline]] — Laptop Return Deadline
+- [ ] [[2025-01-28-microsoft-power-automate-overview]] — Microsoft Power Automate Overview
+- [ ] [[2025-01-28-model-identification-query]] — Model Identification Query
+- [ ] [[2025-01-31-ipad-use-on-flights]] — iPad use on flights
+- [ ] [[2025-03-22-mac-emoji-suggestions]] — Mac Emoji Suggestions
+- [ ] [[2025-07-24-phone-line-troubleshooting-guide]] — Phone Line Troubleshooting Guide
+- [ ] [[2025-09-19-teams-light-green-options]] — Teams light green options
+- [ ] [[2025-12-01-calibre-ipad-setup]] — Calibre iPad setup
+- [ ] [[2026-02-20-keep-teams-green-longer]] — Keep Teams Green Longer
+- [ ] [[2026-02-24-cybersecure-enhanced-ideas]] — CyberSecure Enhanced Ideas
+- [ ] [[2026-03-07-no-video-signal-fix]] — No video signal fix
+- [ ] [[2026-03-08-laptop-backup-priorities]] — Laptop backup priorities
+- [ ] [[2026-03-10-thinkpad-bios-access-issues]] — ThinkPad BIOS Access Issues
+- [ ] [[2026-03-17-zoom-alternatives-response]] — Zoom Alternatives Response
+- [ ] [[2026-04-05-maximizing-laptop-earnings]] — Maximizing laptop earnings
+- [ ] [[2026-04-09-mt-app-or-website]] — M&T App or Website
+- [ ] [[2026-04-15-anti-spam-policy-solution]] — Anti-Spam Policy Solution
+- [ ] [[2026-04-15-laptop-parts-value-guide]] — Laptop Parts Value Guide
+- [ ] [[2026-04-19-mac-mini-m4-scam-warning]] — Mac Mini M4 Scam Warning
+- [ ] [[2026-04-22-location-permission-options]] — Location Permission Options
+- [ ] [[2026-04-23-outlook-drag-and-drop-issue]] — Outlook Drag-and-Drop Issue
+- [ ] [[2026-04-30-outlook-compose-error-fix]] — Outlook Compose Error Fix
+- [ ] [[2026-05-03-xfinity-gig-pricing-guide]] — Xfinity Gig Pricing Guide
+- [ ] [[2026-05-18-walmart-pharmacy-app-issue]] — Walmart Pharmacy App Issue
+- [ ] [[2026-05-21-intune-blocking-banking-app]] — Intune Blocking Banking App
+- [ ] [[2026-06-03-new-outlook-calendar-peek]] — New Outlook Calendar Peek
+- [ ] [[2026-06-19-plain-text-transcription]] — Plain Text Transcription
+- [ ] [[2026-06-24-enterprise-response-to-lost-phone]] — Enterprise Response to Lost Phone
+- [ ] [[2026-07-06-clear-google-search-history]] — Clear Google Search History
+- [ ] [[2026-07-06-google-search-history-explanation]] — Google Search History Explanation
+- [ ] [[2026-07-09-autopilot-apps-policies-issue]] — Autopilot Apps Policies Issue
+- [ ] [[2026-07-10-word-formatting-issue]] — Word Formatting Issue
+- [ ] [[2026-07-12-android-home-screen-analysis]] — Android home screen analysis
+- [ ] [[2026-07-12-hide-sportspass-icon]] — Hide SportsPass Icon
+- [ ] [[2026-07-14-intune-enrollment-error]] — Intune enrollment error
+- [ ] [[2026-07-17-email-relay-access-denied]] — Email Relay Access Denied
