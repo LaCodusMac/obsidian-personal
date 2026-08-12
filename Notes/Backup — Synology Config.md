@@ -5,11 +5,7 @@ tags: [resource, backup-task, backups]
 status: not-started
 priority: medium
 host: "Synology NAS"
-related_resources: ["[[Hardware Inventory]]", "[[Network Stack]]"]
-related_areas: ["[[Backups]]"]
 ---
-
-# Backup — Synology Config
 
 The Synology is the **backup target** for everything else — which means it needs its own config backup **and** an off-site copy, or a single NAS failure/theft/fire takes out both the originals' copy and the NAS config.
 
@@ -25,3 +21,8 @@ The Synology is the **backup target** for everything else — which means it nee
 - [ ] Export DSM `.dss` config, store off-NAS
 - [ ] Choose off-site method (Hyper Backup → B2, or restic copy)
 - [ ] Enable + verify first off-site run
+
+## Related
+
+- Area: [[Backups]]
+- Context: [[Hardware Inventory]], [[Network Stack]]

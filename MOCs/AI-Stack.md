@@ -3,8 +3,6 @@ title: AI Stack
 type: moc
 ---
 
-# AI Stack
-
 Local models, agents, and the context I hand to any AI so it knows my setup.
 
 ## Core notes

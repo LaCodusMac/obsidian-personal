@@ -3,8 +3,6 @@ title: Self-Hosted
 type: moc
 ---
 
-# Self-Hosted
-
 Services running on the homelab — what they do, where they live, what breaks them.
 
 ## Core notes

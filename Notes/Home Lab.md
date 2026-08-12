@@ -1,12 +1,9 @@
 ---
 title: "Home Lab"
+aliases: [The Lab]
 type: area
 tags: [area, homelab, infrastructure]
-related_projects: ["[[Hermes Agent]]", "[[KalshiWatch]]"]
-related_resources: ["[[Hardware Inventory]]", "[[Self-Hosted Software]]", "[[Network Stack]]"]
 ---
-
-# Home Lab
 
 The ongoing home lab — the physical and software infrastructure everything else runs on. This is an **Area** (never "done"), and it's the hub for the hardware, software, and network notes.
 

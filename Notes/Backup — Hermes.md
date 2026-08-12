@@ -5,11 +5,7 @@ tags: [resource, backup-task, backups]
 status: not-started
 priority: critical
 host: "Lenovo P3 Mini"
-related_projects: ["[[Hermes Agent]]"]
-related_areas: ["[[Backups]]"]
 ---
-
-# Backup — Hermes
 
 **Why it's #1:** the memory is the irreplaceable part of [[Hermes Agent]] — lose it and you have a fresh install, not your agent. Everything here lives on the P3 Mini with no copy.
 

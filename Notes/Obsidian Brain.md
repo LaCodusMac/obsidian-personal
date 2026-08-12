@@ -1,43 +1,73 @@
 ---
 title: "Obsidian Brain"
+aliases: [The Brain]
 type: project
 status: active
 priority: medium
 started: 2026-07-28
-updated: 2026-07-28
 tags: [project, meta, obsidian, pkm]
-related_projects: ["[[Hermes Agent]]"]
-related_people: []
-related_areas: ["[[Home Lab]]"]
-related_resources: []
 ---
 
-# Obsidian Brain
+This vault itself — a personal wiki plus a permanent AI-conversation corpus, maintained
+jointly by me and an AI assistant. This note documents what the brain is made of, so the
+system that runs it is itself in the wiki.
 
-## Summary
-This vault itself — my personal wiki tying every project, person, and system together, maintained jointly by me and an AI assistant. This note documents *what the brain is made of* so the system that runs it is itself in the wiki.
+## Current state
 
-## What makes it up
-- **Structure**: PARA-ish folders — `01-Projects`, `02-People`, `03-Areas`, `04-Resources`, `05-Archive`, plus `Templates/` and `_AI/`.
-- **Hub**: [[Home]] — a Dataview dashboard (active projects, recent edits, stale-project warnings).
-- **Templates**: `Project Template`, `Person Template` — consistent frontmatter for linking.
-- **AI layer**: [[AI Maintenance Guide]] (rules the AI follows) + [[Changelog]] (audit log of AI edits).
-- **Linking model**: every note carries `related_projects` / `related_people` / `related_areas` / `related_resources` frontmatter **and** inline `[[wikilinks]]`, so the graph stays connected and nothing is orphaned.
+Two layers, deliberately different in kind:
 
-## Plugins it relies on
-- **Dataview** — the live tables on [[Home]].
-- **Templater** (optional) — one-click new notes from templates.
+- **Articles** — `Notes/`, `People/`, `MOCs/`, `Logs/`. Curated, authoritative, state what
+  is true now. Flat namespaces; classification lives in frontmatter.
+- **Library** — 584 verbatim AI conversation transcripts, 2023–2026. Append-only, never
+  edited, never cited as fact. Exists so no single provider holds the only copy of my
+  context. See [[About the Library]].
+
+Governed by [[VAULT]], the canonical spec. [[CLAUDE]] is the agent entry point, loaded
+automatically by Claude Code and Cowork sessions. [[Changelog]] is the audit log.
+
+## Components
+
+- **Spec**: [[VAULT]] — structure, frontmatter, conventions, imports, sensitive handling
+- **Dashboard**: [[Home]] — stale notes, orphans, corpus breakdown
+- **Templates**: `Templates/` — Entity, Runbook, MOC, Person, Project, Log Entry
+- **AI layer**: [[CLAUDE]] + [[AI Maintenance Guide]] + [[Changelog]]
+- **Tooling**: `_AI/regenerate_index.py` — rebuilds Library indexes, checks that every
+  sensitive transcript is actually excluded from git
+- **Linking model**: inline `[[wikilinks]]` only. `related_*` frontmatter is banned — the
+  same relationship recorded twice drifts, and a drifting query fails silently.
 
 ## How it's AI-controlled
-An AI with file access (Claude Desktop / Cowork / Claude Code pointed at the folder) reads [[AI Maintenance Guide]] first, then edits the markdown directly and logs to [[Changelog]]. Fully plain-text, so it stays human-readable and auditable.
 
-## Open Questions
-- Do I want a scheduled AI "gardener" pass (e.g. weekly) that updates [[Home]], flags stale notes, and proposes new links?
-- Should the vault live on the [[Home Lab]] with versioned backups (git repo on the NAS)?
+Plain markdown, so any agent with file access can read and edit directly — Claude Code or
+Cowork pointed at the folder. It reads [[CLAUDE]] automatically, follows [[VAULT]], and logs
+what it changed to [[Changelog]]. Fully auditable in git.
+
+[[Hermes Agent]] is the separate always-on agent stack; it doesn't currently touch this
+vault, though pointing it at the Library for retrieval is an open question below.
+
+## Gotchas
+
+- **No query engine installed.** [[Home]] is raw query blocks until Dataview is added or
+  Bases is wired up. Undecided — see `README.md`.
+- Sensitive transcripts rely on a `.private.md` filename suffix to stay out of git. The
+  suffix is the whole mechanism; a sensitive file without it looks normal and gets committed.
+
+## Open questions
+
+- A scheduled "gardener" pass — weekly, flags stale notes and proposes links?
+- Should [[Hermes Agent]] query the Library directly, making the corpus live memory rather
+  than something I search by hand?
+- Versioned backups on the [[Home Lab]] — see [[Backup — Obsidian Vault]]. Obsidian Sync and
+  the GitHub remote are replication, not backup; a bad edit propagates to both.
 
 ## Related
-- Related: [[Home]], [[AI Maintenance Guide]], [[Changelog]]
+
 - Areas: [[Home Lab]]
+- Projects: [[Hermes Agent]]
 
 ## Log
-- 2026-07-28: Vault scaffolded and this meta-note created.
+
+- 2026-08-03 — Rewritten. Previously described the vault as PARA (`01-Projects/` etc.) with
+  the `related_*` linking model; both were superseded in the 2026-07-31 restructure and
+  formally retired 2026-08-03.
+- 2026-07-28 — Vault scaffolded and this meta-note created.

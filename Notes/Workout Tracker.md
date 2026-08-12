@@ -1,20 +1,13 @@
 ---
 title: "Workout Tracker"
+aliases: [Workouts]
 type: project
 status: active
 priority: medium
 started: 2026-01-01
-updated: 2026-07-28
 tags: [project, hermes, fitness, telegram]
-related_projects: ["[[Hermes Agent]]"]
-related_people: []
-related_areas: []
-related_resources: []
 ---
 
-# Workout Tracker
-
-## Summary
 A workout tracker that [[Hermes Agent]] **built for me** — I created it by instructing Hermes through the Telegram chat, which is a good example of Hermes turning instructions into a real, working project rather than just answering. I log/track workouts through the same chat.
 
 ## Fill in

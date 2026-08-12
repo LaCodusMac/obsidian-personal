@@ -5,11 +5,7 @@ tags: [resource, backup-task, backups]
 status: not-started
 priority: high
 host: "wherever the vault lives"
-related_projects: ["[[Obsidian Brain]]"]
-related_areas: ["[[Backups]]"]
 ---
-
-# Backup — Obsidian Vault
 
 This wiki ([[Obsidian Brain]]) is itself worth protecting — it's the map of everything else.
 

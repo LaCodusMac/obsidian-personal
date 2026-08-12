@@ -4,14 +4,10 @@ type: resource
 tags: [resource, backup-task, backups]
 status: not-started
 priority: medium
-host: "UniFi Gateway / controller"
-related_resources: ["[[Network Stack]]", "[[Hardware Inventory]]"]
-related_areas: ["[[Backups]]"]
+host: "UniFi Cloud Key (confirmed)"
 ---
 
-# Backup — UniFi
-
-Protects network config: VLANs, firewall rules, Wi-Fi/SSIDs, VPN setup — painful to reconstruct from memory. (See [[Network Stack]].)
+Protects network config: VLANs, firewall rules, Wi-Fi/SSIDs, VPN setup — painful to reconstruct from memory. The controller runs on the [[UniFi Cloud Key]] appliance. (See [[Network Stack]].)
 
 ## Approach
 UniFi has its own backup:
@@ -21,7 +17,7 @@ UniFi has its own backup:
 ## Fill into the pattern ([[Backups]])
 - `<name>` = `unifi`
 - `<PATHS>` = the auto-backup export dir / downloaded `.unf` files
-- If controller runs as a container/host you manage, also back up its config/data volume.
+- Controller is an appliance, not a container you manage — so the `.unf` export *is* the backup. There's no host volume to snapshot, which makes the auto-backup step non-optional.
 
 ## Restore test
 Spin up / factory-adopt into a test controller and restore a `.unf`, or at minimum confirm the `.unf` opens and is recent. Also **store admin credentials + VLAN map** somewhere safe (the network doc worksheet).
@@ -30,3 +26,8 @@ Spin up / factory-adopt into a test controller and restore a `.unf`, or at minim
 - [ ] Enable auto-backup in UniFi
 - [ ] Pull .unf into restic
 - [ ] Verify a backup file is current
+
+## Related
+
+- Area: [[Backups]]
+- Context: [[UniFi Cloud Key]], [[Hardware Inventory]], [[Network Stack]]

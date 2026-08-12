@@ -1,12 +1,9 @@
 ---
 title: "Backups"
+aliases: [Backup, 3-2-1]
 type: area
 tags: [area, backups, infrastructure, restic]
-related_areas: ["[[Home Lab]]"]
-related_resources: ["[[Backup — Hermes]]", "[[Backup — KalshiWatch]]", "[[Backup — Obsidian Vault]]", "[[Backup — Plex]]", "[[Backup — Pi-hole]]", "[[Backup — UniFi]]", "[[Backup — Synology Config]]"]
 ---
-
-# Backups
 
 The ongoing backup responsibility for the whole [[Home Lab]]. **Current reality: nothing is running yet.** This hub holds the reusable pattern; each service below has its own short note with the specifics (what to grab, pre-backup hook, restore test).
 
@@ -20,7 +17,7 @@ Concretely: source data lives on its host (P3 Mini / NUC / Synology), **copy 1**
 ## Status
 ```dataview
 TABLE status, priority, host
-FROM "04-Resources"
+FROM "Notes"
 WHERE contains(tags, "backup-task")
 SORT priority DESC
 ```

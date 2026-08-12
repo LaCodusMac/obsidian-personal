@@ -3,8 +3,6 @@ title: Home
 type: hub
 ---
 
-# Home
-
 Dashboard. Everything branches from here.
 
 ## Areas
@@ -43,16 +41,27 @@ WHERE length(file.inlinks) = 0 AND length(file.outlinks) = 0
 SORT file.name ASC
 ```
 
-## Inbox — oldest unmined imports
+## Library — conversation corpus
+
+584 conversations, 2023–2026. Permanent and searchable; see
+[[About the Library]] and [[Conversation Index]].
 
 ```dataview
-TABLE file.mtime AS "Imported"
-FROM "Inbox"
-SORT file.mtime ASC
-LIMIT 10
+TABLE length(rows) AS "Conversations"
+FROM "Library"
+WHERE category
+GROUP BY category
+SORT length(rows) DESC
 ```
 
-If this list isn't shrinking, the Inbox is a graveyard. Mine or bulk-delete it.
+Unfiled — no category set, needs classifying:
+
+```dataview
+LIST
+FROM "Library"
+WHERE !category AND type != "meta"
+SORT file.name ASC
+```
 
 ## Open loops
 

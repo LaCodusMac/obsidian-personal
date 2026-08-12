@@ -3,7 +3,6 @@ title: "{{title}}"
 type: person
 role: 
 tags: [person]
-related_projects: []
 ---
 
 # {{title}}

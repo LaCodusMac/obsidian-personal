@@ -1,3 +1,8 @@
+> **Archived 2026-08-03.** Superseded by `VAULT.md` and the root `README.md`.
+> Kept as a record of the original PARA-era design — it describes `01-Projects/`,
+> `02-People/`, `03-Areas/`, `04-Resources/`, `05-Archive/`, none of which exist,
+> and the `related_*` linking model, which is now banned. Do not follow it.
+
 # Jacob Vault — Setup & Concept
 
 This is a starter Obsidian vault built to hold **all of your main projects** and link them together — like a personal wiki where every project, person, and idea is connected.

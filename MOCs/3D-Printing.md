@@ -3,8 +3,6 @@ title: 3D Printing
 type: moc
 ---
 
-# 3D Printing
-
 The printer, the profiles that work, and what's come off it.
 
 ## Core notes

@@ -4,12 +4,7 @@ type: project
 status: active
 priority: medium
 started: {{date}}
-updated: {{date}}
 tags: [project]
-related_projects: []
-related_people: []
-related_areas: []
-related_resources: []
 ---
 
 # {{title}}
@@ -30,10 +25,8 @@ What's true right now, as of the `updated` date above.
 - 
 
 ## Related
-- Projects: 
-- People: 
-- Areas: 
-- Resources: 
+
+Inline `[[wikilinks]]` in the sections above. No `related_*` fields — see `VAULT.md` §3.
 
 ## Log
 - {{date}}: Note created.

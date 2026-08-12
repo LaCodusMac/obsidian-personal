@@ -4,12 +4,8 @@ type: resource
 tags: [resource, backup-task, backups]
 status: not-started
 priority: medium
-host: "NUC10 (per network doc)"
-related_resources: ["[[Self-Hosted Software]]", "[[Network Stack]]"]
-related_areas: ["[[Backups]]"]
+host: "NUC10 (confirmed)"
 ---
-
-# Backup — Plex
 
 Back up the **config/database**, not the media bulk (media lives on the Synology and is huge; re-scanning is fine). This preserves libraries, watch history, collections, and settings.
 
@@ -39,3 +35,8 @@ Restore config to a test Plex, confirm libraries + watch history appear (pointin
 - [ ] Confirm Plex config path on NUC10
 - [ ] Script (+ optional stop/start) + timer, excluding Cache/Media
 - [ ] Test-restore
+
+## Related
+
+- Area: [[Backups]]
+- Context: [[Self-Hosted Software]], [[Network Stack]], [[NUC10]]

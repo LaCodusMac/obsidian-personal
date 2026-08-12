@@ -1,20 +1,13 @@
 ---
 title: "Hermes Agent"
+aliases: [Hermes]
 type: project
 status: active
 priority: high
 started: 2026-01-01
-updated: 2026-07-28
 tags: [project, hermes, telegram, agent]
-related_projects: ["[[KalshiWatch]]", "[[Workout Tracker]]", "[[Family Bots]]"]
-related_people: ["[[Mom]]", "[[Nana]]"]
-related_areas: ["[[Home Lab]]"]
-related_resources: ["[[Self-Hosted Software]]", "[[Hardware Inventory]]"]
 ---
 
-# Hermes Agent
-
-## Summary
 Hermes is my personal AI agent — **one agent**, not a chatbot. It takes plain-language instructions and turns them into real actions using built-in tools plus connected AI models: file handling, coding, web search, and more, run directly from the terminal or other platforms. It uses **memory** to improve its responses over time based on past interactions, which makes it an active assistant rather than a simple chatbot. I reach it through Telegram.
 
 ## Current Status

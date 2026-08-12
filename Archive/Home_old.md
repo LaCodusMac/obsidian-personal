@@ -1,8 +1,13 @@
 ---
-title: Home
-type: hub
+title: Home (old)
+type: archived
 updated: 2026-07-28
 ---
+
+> **Archived 2026-08-03.** Superseded by `Home.md` in the 2026-07-31 restructure.
+> Kept only as a record of the previous PARA layout — its Dataview queries point at
+> `01-Projects` / `03-Areas` / `04-Resources` / `05-Archive`, folders that no longer
+> exist. Do not use as a dashboard.
 
 # 🧠 Jacob Vault
 

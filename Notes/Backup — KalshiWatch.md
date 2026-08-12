@@ -5,11 +5,7 @@ tags: [resource, backup-task, backups]
 status: not-started
 priority: high
 host: "Lenovo P3 Mini"
-related_projects: ["[[KalshiWatch]]"]
-related_areas: ["[[Backups]]"]
 ---
-
-# Backup — KalshiWatch
 
 Protects the [[KalshiWatch]] history: trades, signal outcomes, position-lifecycle metrics, and config. Same host as [[Hermes Agent]], so this can share the P3 Mini restic repo.
 

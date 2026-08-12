@@ -3,8 +3,6 @@ title: Fitness
 type: moc
 ---
 
-# Fitness
-
 Current program, and the log of sessions against it.
 
 ## Current program

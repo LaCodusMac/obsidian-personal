@@ -1,20 +1,13 @@
 ---
 title: "KalshiWatch"
+aliases: [Kalshi, Kalshi bot]
 type: project
 status: active
 priority: high
 started: 2026-01-01
-updated: 2026-07-28
 tags: [project, kalshi, trading, hermes, python]
-related_projects: ["[[Hermes Agent]]"]
-related_people: []
-related_areas: ["[[Home Lab]]"]
-related_resources: ["[[Self-Hosted Software]]"]
 ---
 
-# KalshiWatch
-
-## Summary
 The Kalshi prediction-market watcher and (demo) trading system that runs as a module of [[Hermes Agent]]. It collects market data, generates signals, runs automated demo trades, monitors open positions with exit logic, ingests a narrative feed, and reports out — all controllable and observable through Telegram.
 
 > 📌 I already keep fuller Kalshi documentation inside this vault. This note is the **code-level architecture map** derived from the `KalshiWatch-main` source. Treat my existing Kalshi docs as the source of truth for strategy/history; treat this as the component index. Merge or cross-link when convenient.

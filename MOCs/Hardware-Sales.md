@@ -3,8 +3,6 @@ title: Hardware Sales
 type: moc
 ---
 
-# Hardware Sales
-
 Buying used, reselling, and what I paid vs. what it went for.
 
 ## Active listings

@@ -3,8 +3,6 @@ title: Content
 type: moc
 ---
 
-# Content
-
 What I'm making, where it goes, and what happened after it went out.
 
 ## Pipeline

@@ -1,52 +1,48 @@
-# Personal Vault — Setup
+# Personal Vault
 
-A personal wiki. Flat article namespace, navigation by links and MOCs, not by folders.
+A personal wiki (`Notes/`) plus a permanent AI-conversation corpus (`Library/`).
 
-## Structure
+> **The spec is [[VAULT]].** Structure, frontmatter, writing conventions, imports, and
+> sensitive-material handling all live there. This file is setup only — if it and `VAULT.md`
+> ever disagree, `VAULT.md` is right.
 
-```
-Home.md        ← dashboard, start here
-Notes/         ← THE article namespace. One note per entity. Flat, on purpose.
-Logs/          ← dated entries (workouts, print runs, sales, incidents)
-MOCs/          ← Maps of Content: hand-curated entry points per area
-People/
-Inbox/         ← quarantined raw imports. Mine and delete. Not a knowledge base.
-Archive/
-Templates/
-_AI/           ← rules + changelog for AI-assisted maintenance
-```
+## Setup
 
-### Why `Notes/` is flat
-This is the Wikipedia model: one namespace, no subject folders. It removes the
-"which folder does this go in" decision, and — more importantly — it makes
-search-before-create natural, which is what actually prevents duplicate notes.
+**1. Install a query engine.** `Home.md` is raw query blocks without one. Two options:
 
-Type lives in frontmatter (`type: device | service | concept | area | howto`),
-so Dataview can group by type on demand. If you later decide you want folders,
-that field makes the re-sort mechanical.
+- **Dataview** (Settings → Community Plugins → Browse). All existing queries are written
+  for it. Third-party, so it carries abandonment risk.
+- **Bases** — already built in (`bases: true` in your core plugins). No third-party
+  dependency. Most queries here are simple enough to translate, but Home's orphan check
+  (`length(file.inlinks) = 0`) may have no equivalent — verify that one before committing.
 
-Rule of thumb: if you'd hesitate about which folder, it belongs in `Notes/`.
+Undecided. Everything else in the vault works either way.
 
-## Required setup
+**2. Leave `Library/` searchable.** An earlier version of this file told you to add it to
+Settings → Files & Links → Excluded files. Don't — that was written when the folder was
+disposable quarantine. A memory store you can't search isn't one.
 
-**1. Plugins** (Settings → Community Plugins → Browse)
-- **Dataview** — required. Home.md is raw query blocks without it.
-- **Templater** — optional, one-click new notes from `Templates/`.
+The original concern was real: 584 transcripts do crowd the quick switcher when you're
+reaching for an article. If that gets annoying, scope your searches (`path:Notes`) rather
+than excluding the folder.
 
-**2. Exclude the Inbox from search** (Settings → Files & Links → Excluded files)
-Add `Inbox`. This de-prioritizes raw transcripts in search results and quick
-switcher. Without this, the Inbox pollutes every lookup you do.
+**3. Use aliases.** On by default. `aliases:` in frontmatter is the redirect mechanism and
+the highest-value habit here — see `Notes/Synology NAS.md`.
 
-**3. Turn on aliases in the quick switcher** — on by default; just use it.
-`aliases:` in frontmatter is the redirect mechanism. It is the single highest-value
-habit in this vault. See `Notes/Synology NAS.md` for the pattern.
+**4. Templater** (optional) — one-click new notes from `Templates/`.
 
 ## The three rules that keep this from rotting
 
-1. **Search before you create.** One canonical note per thing, forever. If a note
-   exists, edit it. Add an alias instead of a new note.
-2. **Lead sentence first.** Every note opens with one plain line saying what the
-   thing is, before any heading or structure.
-3. **Drain the Inbox by deleting.** Mine a transcript into the relevant `Notes/`
-   article, then delete the transcript. A "reviewed" status flag you have to
-   remember to flip is a queue that never drains.
+1. **Search before you create.** One article per thing, forever. If it exists, edit it; add
+   an alias instead of a second article.
+2. **Lead sentence first.** Every note opens with one plain line saying what the thing is,
+   before any heading.
+3. **Promote from `Library/`, don't drain it.** When a conversation contains something worth
+   stating as fact, write it into the relevant article in your own words. The transcript
+   stays. There is no review queue and no backlog to feel guilty about.
+
+## Working with an AI assistant
+
+`CLAUDE.md` is loaded automatically by Claude Code and Cowork sessions pointed at this
+folder. It points to `VAULT.md` and summarizes the hard rules. `_AI/Changelog.md` is the
+audit log of what an assistant has changed.

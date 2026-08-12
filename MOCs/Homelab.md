@@ -3,8 +3,6 @@ title: Homelab
 type: moc
 ---
 
-# Homelab
-
 Physical machines, the hypervisor, storage, and the network they sit on.
 
 ## Core notes

@@ -1,20 +1,13 @@
 ---
 title: "Family Bots"
+aliases: [Family Hermes]
 type: project
 status: active
 priority: low
 started: 2026-01-01
-updated: 2026-07-28
 tags: [project, hermes, telegram, family]
-related_projects: ["[[Hermes Agent]]"]
-related_people: ["[[Mom]]", "[[Nana]]"]
-related_areas: []
-related_resources: []
 ---
 
-# Family Bots
-
-## Summary
 Hermes instances set up for [[Mom]] and [[Nana]], so they can work with agentic AI the same way I do — via Telegram. Same [[Hermes Agent]] foundation, just pointed at them. Used on and off.
 
 ## The instances

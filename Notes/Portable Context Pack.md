@@ -5,8 +5,6 @@ type: concept
 tags: [ai]
 ---
 
-# Portable Context Pack
-
 The small hand-curated set of notes I hand a fresh AI so it knows my stack without
 me re-explaining it. This — not a transcript archive — is what "not tied to any one
 AI product" actually means in practice.
@@ -32,9 +30,24 @@ what I don't want re-explained. Keep it here so it's version-controlled:
 
 - Resist the urge to grow this. If it's more than ~10 files it stops being portable
   and becomes a second vault you have to maintain in parallel.
-- Do **not** feed raw `Inbox/` transcripts as context. They're unreviewed, often
-  wrong, and mostly restate what's already in the entity notes.
+- Don't paste `Library/` transcripts into the pack. Not because they're worthless —
+  the corpus exists precisely so agents can use it — but because the pack is the
+  *portable* layer and 5.5 MB of transcripts isn't portable. Point an agent at
+  `Library/` to search on demand; keep the pack to curated articles.
+
+## Library vs. this pack
+
+Two different retrieval modes, and it's worth knowing which you're invoking:
+
+| | Portable Context Pack | `Library/` |
+|---|---|---|
+| Size | ~10 curated files | 584 transcripts, 5.5 MB |
+| Use | Hand to an agent up front | Search on demand, mid-task |
+| Content | What is true now | What was said, when |
+| Trust | Authoritative | History only — verify against `Notes/` |
 
 ## Log
 
+- 2026-08-03 — Gotcha about Inbox transcripts rewritten: the corpus is now a permanent,
+  agent-queryable `Library/`, so the objection is portability, not quality.
 - 2026-07-31 — Created. Replaces the idea of a separate "AI brain" vault.
