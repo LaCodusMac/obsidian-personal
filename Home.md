@@ -68,7 +68,6 @@ SORT file.name ASC
 - [ ] **Set up backups** — Hermes memory, KalshiWatch DB, and this vault all live on single machines with no backup job. Start with Hermes.
 - [ ] Confirm Hermes memory is scoped per user (no bleed across me / Mom / Nana)
 - [ ] Locate Hermes memory on disk so the backup job can target it
-- [ ] Workout Tracker storage + commands
 - [ ] Self-hosted services not yet documented
 
 ---

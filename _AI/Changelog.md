@@ -7,6 +7,27 @@ type: meta
 
 Append-only. Newest at top. One or two lines per session.
 
+## 2026-08-12 — Fitness MOC and Workout Tracker filled in from live Hermes state
+
+Both notes were stubs with "fill in" lists. Written from the actual files on disk rather than
+from memory: `~/.hermes/workout-531/state.json`, the tracker workbook, and the
+`wendler-531-coach` skill.
+
+- **[[Fitness]]** now carries the program (Wendler 5/3/1, started 2026-06-06 calibration,
+  Cycle 1 from 2026-06-15), the goal, current training maxes (squat 205 / bench 165 /
+  deadlift 245 / OHP 115), the weekly split, and the three open training threads — knee pace
+  sensitivity, deadlift grip, bodyweight on 7-day average only.
+- **[[Workout Tracker]]** documents the five workbook sheets and what each column holds, the
+  three-way split of concerns (skill = how to coach, `state.json` = where I am now, workbook =
+  what happened), and the interface. **There are no slash commands** — it's plain conversational
+  Telegram, which is worth stating explicitly since the old stub asked for a command list that
+  doesn't exist. Same for reports: no Grafana, no charts, everything comes back as chat.
+
+Noted that `~/.hermes/workout-531/` is unbacked-up and belongs in the [[Backup — Hermes]] job,
+since it sits under the same directory.
+
+Closed the "Workout Tracker storage + commands" open loop on [[Home]].
+
 ## 2026-08-11 (d) — remote inspected: no divergence, but the committed `.gitignore` is unsafe
 
 Mac ran the fetch. [[Vault Git Reconciliation]] rewritten with measured facts in place of the
