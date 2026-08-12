@@ -1,0 +1,23 @@
+# ── Sensitive conversations ────────────────────────────────────────────────
+# Files matching *.private.md are excluded from git entirely. They still live in
+# the vault, are fully searchable, and sync via Obsidian — they just never enter
+# git history, which is the one place deletion doesn't actually delete.
+#
+# Why a wildcard and not a list of filenames: this file IS committed. Enumerating
+# the sensitive notes here would publish their filenames, and the slugs describe
+# their contents. The suffix carries the boundary instead.
+#
+# Why a filename suffix and not .git/info/exclude: info/exclude is never committed,
+# so the protection would silently disappear on a fresh clone. Protection you can
+# lose without noticing is worse than none.
+Library/*.private.md
+
+# ── Obsidian local state ───────────────────────────────────────────────────
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+
+# ── From remote auto-sync ──────────────────────────────────────────────
+.obsidian/plugins/
+*.icloud
